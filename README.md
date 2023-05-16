@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/dvnyciarevyj3vuj?svg=true)](https://ci.appveyor.com/project/hfiref0x/uacme)
+[![Build status](https://github.com/RootKRD/)
 
-# UACMe
+# UAC-Bypass
 * Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor.
 
 # System Requirements
@@ -906,6 +906,4 @@ https://devblogs.microsoft.com/oldnewthing/20160816-00/?p=94105
 
 # Authors
 
-(c) 2014 - 2023 UACMe Project
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhfiref0x%2FUACME&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+(c) 2014 - 2023 UAC-Bypass
