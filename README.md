@@ -905,4 +905,5 @@ https://devblogs.microsoft.com/oldnewthing/20160816-00/?p=94105
 * Advanced Windows Task Scheduler Playbook - Part.2 from COM to UAC bypass and get SYSTEM directly, http://www.zcgonvh.com/post/Advanced_Windows_Task_Scheduler_Playbook-Part.2_from_COM_to_UAC_bypass_and_get_SYSTEM_dirtectly.html
 
 ![Authors](https://github.com/RootKRD/)
+
 (c) 2014 - 2023 UAC-Bypass
